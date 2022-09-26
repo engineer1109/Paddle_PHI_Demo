@@ -1,0 +1,2 @@
+lib/libpaddle_inference.so filter=lfs diff=lfs merge=lfs -text
+lib/libprotobuf.a filter=lfs diff=lfs merge=lfs -text
